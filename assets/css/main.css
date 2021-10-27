@@ -1,0 +1,88 @@
+*{
+    box-sizing: inherit;
+    font-family: 'Roboto',sans-serif;
+}
+h3{
+    text-align: center;
+}
+
+.box-form{
+    display: flex;
+   
+
+}
+.Information{
+    width: 340px;
+    background: rgb(22 141 199);
+}
+.myimg{
+    padding-top: 45px;
+}
+.myimg img{
+    display: flex;
+    width: 170px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin: 0 auto;
+}
+
+.myname{
+    text-align: center;
+    padding-top: 45px;
+    color: white;
+}
+
+.name{
+    font-size: 1.6rem;
+    font-weight: 500;
+}
+.contact-text{
+    display: flex;
+    margin-top: 25px;
+}
+.box-far{
+    margin: 0 15px;
+    display: flex;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    background: white;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+
+}
+.mycontact{
+    margin-left: 15px;
+}
+.mycontact p{
+  color: white;
+  line-height: 20px;
+}
+.contact-text span{
+    color: white;
+    font-size: 1.2rem;
+    display: flex;
+    align-items: center;
+}
+
+.contact-text i{
+    font-size: 1.6rem;
+    margin-right: 15px;
+    margin: 0 auto;
+    color: rgb(22 141 199);
+}
+
+.list-mycontact{
+    list-style: none;
+    color: white;
+    padding-left: 0 ;
+}
+.list-mycontact li{
+    line-height: 30px;
+}
+
+
+.relic{
+    width: 430px;
+    background: #eeede9;
+}

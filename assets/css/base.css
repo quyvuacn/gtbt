@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    background-image: url("../imgs/i7.jpg");
+}
+*{
+    box-sizing: inherit;
+    font-family: 'Roboto',sans-serif;
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
